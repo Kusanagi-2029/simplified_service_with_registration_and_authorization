@@ -1,0 +1,2 @@
+# simplified_service_with_registration_and_authorization
+Упрощенный сервис с регистрацией и авторизацией
